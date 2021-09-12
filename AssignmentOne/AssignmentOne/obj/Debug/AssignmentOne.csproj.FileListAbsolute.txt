@@ -1,0 +1,14 @@
+C:\Users\irock\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csprojAssemblyReference.cache
+C:\Users\irock\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\irock\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe.config
+C:\Users\irock\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe
+C:\Users\irock\source\repos\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.pdb
+C:\Users\irock\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.exe
+C:\Users\irock\source\repos\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.pdb
+C:\Users\Jaska\OneDrive\Desktop\college1\1st sem\Software dev\AssignmentOne\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe.config
+C:\Users\Jaska\OneDrive\Desktop\college1\1st sem\Software dev\AssignmentOne\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.exe
+C:\Users\Jaska\OneDrive\Desktop\college1\1st sem\Software dev\AssignmentOne\AssignmentOne\AssignmentOne\bin\Debug\AssignmentOne.pdb
+C:\Users\Jaska\OneDrive\Desktop\college1\1st sem\Software dev\AssignmentOne\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csprojAssemblyReference.cache
+C:\Users\Jaska\OneDrive\Desktop\college1\1st sem\Software dev\AssignmentOne\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\Jaska\OneDrive\Desktop\college1\1st sem\Software dev\AssignmentOne\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.exe
+C:\Users\Jaska\OneDrive\Desktop\college1\1st sem\Software dev\AssignmentOne\AssignmentOne\AssignmentOne\obj\Debug\AssignmentOne.pdb
